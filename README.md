@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/92531202/149652557-949d03f6-2dcd-430b-ba00-1cc61905a8b6.png"> 
 <p>Hello everyone !! I am <b>Prajwal V</b>, a <b>Full Stack Developer</b>.<br/>
 I Have done my <b>BE</b> in the field of <b>Electrical and Electronics Engineering</b> from <b>B.M.S. College of Engineering, Bengaluru.</b><br/>
-I am currently doing <b>Full Stack web development (MERN) Course</b> from <a href="https://www.prepbytes.com/"><b>PrepBytes</b></a><br/>
 I am a <b>self-taught</b> and <b>self-motivated</b> person who is always looking for new challenges and learning new things.<br/>
 Along, with contributing to Open-Source projects, I also like to share my knowledge and skills with others.</p>
 <hr>
