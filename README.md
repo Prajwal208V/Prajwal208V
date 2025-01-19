@@ -1,11 +1,11 @@
 <h2 align="center">Hello 👋, Welcome to my profile !!</h2>
 <img src="https://user-images.githubusercontent.com/92531202/149652557-949d03f6-2dcd-430b-ba00-1cc61905a8b6.png"> 
-<p>Hello everyone !! I am <b>Prajwal V</b>, a <b>Full Stack Developer</b>.<br/>
+<p>Hello everyone !! I am <b>Prajwal V</b>, a <b>Full Stack, iOS Developer, Blockchain Engineer, Mobile App Developer</b>.<br/>
 I Have done my <b>BE</b> in the field of <b>Electrical and Electronics Engineering</b> from <b>B.M.S. College of Engineering, Bengaluru.</b><br/>
 I am a <b>self-taught</b> and <b>self-motivated</b> person who is always looking for new challenges and learning new things.<br/>
 Along, with contributing to Open-Source projects, I also like to share my knowledge and skills with others.</p>
 <hr>
-<h2 align="center">🛠Tools and Technologies used by me :</h2>
+<h2 align="center">🛠The tools and technologies I specialize in:</h2>
 
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/detail/111-1116276_computer-science-i-syllabus-and-grading-policy-c.png" alt="c++" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="git" width="40" height="40"/> </a>
