@@ -23,6 +23,7 @@ Along, with contributing to Open-Source projects, I also like to share my knowle
        <a href="https://www.apple.com/in/ios/ios-18/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/021/515/122/original/ios-icon-logo-software-apple-symbol-with-name-white-design-mobile-illustration-with-black-background-free-vector.jpg" alt="Postgresql" width="40" height="40"/> </a>
               <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Swift" width="40" height="40"/> </a>
                <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastAPI" width="40" height="40"/> </a>
+  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/SQLAlchemy#/media/File:SQLAlchemy.svg" alt="SQLAlchemy" width="40" height="40"/> </a>
  <hr/>
  
   
