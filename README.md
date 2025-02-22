@@ -26,6 +26,7 @@ Along, with contributing to Open-Source projects, I also like to share my knowle
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://blog.desdelinux.net/wp-content/uploads/2023/02/sqlalchemy.png" alt="SQLAlchemy" width="40" height="40"/></a>
   <a href="https://pydantic.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="Pydantic" width="40" height="40"/> </a>
   <a href="https://jwt.io/introduction" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="40" height="40"/> </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="graphql" width="40" height="40"/> </a>
   <a href="https://www.apple.com/in/apple-intelligence/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/apple-intelligence/apple-intelligence-96x96_2x.png" alt="apple intelligence" width="40" height="40"/> </a>
     <a href="https://developer.apple.com/documentation/coreml/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" alt="Core ML" width="40" height="40"/> </a>
    <a href="https://developer.apple.com/documentation/realitykit/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/realitykit/realitykit-96x96_2x.png" alt="Core ML" width="40" height="40"/> </a>
