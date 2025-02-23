@@ -35,8 +35,9 @@ Along, with contributing to Open-Source projects, I also like to share my knowle
  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="Core ML" width="40" height="40"/> </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-1024.png" alt="Core ML" width="40" height="40"/> </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdnlogo.com/logos/r/3/redis.svg" alt="Redis" width="40" height="40"/> </a>
- <hr/>
+ <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="40" height="40"/> </a>
  
+ <hr/>
   
 ### 🐍 Watch a Snake eat my Contribution Graph :
 <img src="https://github.com/Prajwal208V/Prajwal208V/blob/output/github-contribution-grid-snake.svg" alt="mygrap">
