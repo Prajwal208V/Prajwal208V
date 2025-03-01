@@ -51,6 +51,7 @@ Along, with contributing to Open-Source projects, I also like to share my knowle
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="40" height="40"/> </a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40"/> </a>
    <a href="https://developers.google.com/ml-kit" target="_blank" rel="noreferrer"> <img src="https://developers.google.com/static/ml-kit/images/homepage/hero.png" alt="ml-ki" width="40" height="40"/> </a>
+   <a href="https://www.tensorflow.org/js" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/vdbb152dfd6ef5e309aa1d261d45f3fd443aed2691cbfba3f9f80f8a4012a0a8f/tensorflow/images/lockup.svg" alt="tensorflow" width="40" height="40"/> </a>
  <hr/>
   
 ### 🐍 Watch a Snake eat my Contribution Graph :
