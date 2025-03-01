@@ -50,6 +50,7 @@ Along, with contributing to Open-Source projects, I also like to share my knowle
  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="40" height="40"/> </a>
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="40" height="40"/> </a>
   <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40"/> </a>
+   <a href="https://developers.google.com/ml-kit" target="_blank" rel="noreferrer"> <img src="https://developers.google.com/static/ml-kit/images/homepage/hero.png" alt="ml-ki" width="40" height="40"/> </a>
  <hr/>
   
 ### 🐍 Watch a Snake eat my Contribution Graph :
