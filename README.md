@@ -1,18 +1,18 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h1 align="left" style="margin-bottom: 5px;">🌌 Prajwal | Data Engineer @Amazon 🚀</h1>
+      <h1 align="left" style="margin-bottom: 5px;">🌌 Prajwal | Blockchain developer @Examroom.AI 🚀</h1>
       <p style="margin: 0;">
         🔹 Passionate about building scalable data solutions & cloud architectures.<br>
-        🔹 Currently diving deeper into <b>Open-source, Data engineering, ML/AI & GoLang</b>.<br>
+        🔹 Currently diving deeper into <b>Open-source, Blockchain engineering, ML/AI </b>.<br>
         🔹 Love <b>Coding, System design, and Web development</b>.
       </p>
       <p align="center" style="margin-top: 5px;">
-        <a href="https://github.com/k-g-prajwal">
-          <img src="https://komarev.com/ghpvc/?username=k-g-prajwal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+        <a href="https://github.com/prajwal208v">
+          <img src="https://komarev.com/ghpvc/?username=prajwal208v&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
         </a>
-        <a href="https://github.com/k-g-prajwal?tab=followers">
-          <img src="https://img.shields.io/github/followers/k-g-prajwal?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+        <a href="https://github.com/prajwal208v?tab=followers">
+          <img src="https://img.shields.io/github/followers/prajwal208v?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
         </a>
       </p>
     </td>
@@ -89,20 +89,20 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-g-prajwal&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-g-prajwal&theme=merko&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal208v&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal208v&theme=merko&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-g-prajwal&theme=github-dark&bg_color=0D1117&color=54FC00&line=54FC00&point=54FC00" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal208v&theme=github-dark&bg_color=0D1117&color=54FC00&line=54FC00&point=54FC00" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k-g-prajwal&theme=onestar&margin-w=5&no-frame=true" width="80%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prajwal208v&theme=onestar&margin-w=5&no-frame=true" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/k-g-prajwal/k-g-prajwal/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://github.com/prajwal208v/prajwal208v/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
@@ -110,7 +110,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/k-g-prajwal" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
-  <a href="mailTo:prajuganesh@yahoo.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" /></a>
-  <a href="https://github.com/k-g-prajwal" target="blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/prajwalveerabhadraiah" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
+  <a href="prajwalv208@gmail.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" /></a>
+  <a href="https://github.com/prajwal208v" target="blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
