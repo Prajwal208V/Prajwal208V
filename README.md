@@ -1,58 +1,116 @@
-<h2 align="center">Hello 👋, Welcome to my profile !!</h2>
-<img src="https://user-images.githubusercontent.com/92531202/149652557-949d03f6-2dcd-430b-ba00-1cc61905a8b6.png"> 
-<p>Hello everyone !! I am <b>Prajwal V</b>, a <b>Full Stack, iOS Developer, Blockchain Engineer, Mobile App Developer</b>.<br/>
-I Have done my <b>BE</b> in the field of <b>Electrical and Electronics Engineering</b> from <b>B.M.S. College of Engineering, Bengaluru.</b><br/>
-I am a <b>self-taught</b> and <b>self-motivated</b> person who is always looking for new challenges and learning new things.<br/>
-Along, with contributing to Open-Source projects, I also like to share my knowledge and skills with others.</p>
-<hr>
-<h2 align="center">🛠The tools and technologies I specialize in:</h2>
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h1 align="left" style="margin-bottom: 5px;">🌌 Prajwal | Data Engineer @Amazon 🚀</h1>
+      <p style="margin: 0;">
+        🔹 Passionate about building scalable data solutions & cloud architectures.<br>
+        🔹 Currently diving deeper into <b>Open-source, Data engineering, ML/AI & GoLang</b>.<br>
+        🔹 Love <b>Coding, System design, and Web development</b>.
+      </p>
+      <p align="center" style="margin-top: 5px;">
+        <a href="https://github.com/k-g-prajwal">
+          <img src="https://komarev.com/ghpvc/?username=k-g-prajwal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+        </a>
+        <a href="https://github.com/k-g-prajwal?tab=followers">
+          <img src="https://img.shields.io/github/followers/k-g-prajwal?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+        </a>
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
+           height="200px" width="280px" 
+           alt="cool gif" 
+           style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.nicepng.com/png/detail/111-1116276_computer-science-i-syllabus-and-grading-policy-c.png" alt="c++" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="git" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://yaml.org/spec/1.2.2/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/YAML#/media/File:Official_YAML_Logo.svg" alt="YAML" width="40" height="40"/> </a>
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Yarn-logo-kitten.svg" alt="yarn" width="40" height="40"/> </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="yarn" width="40" height="40"/> </a>
-  <a href="https://pypi.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/PyPI_logo.svg/2560px-PyPI_logo.svg.png" alt="yarn" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/92531202/169091958-67a3e148-dcb6-410b-a859-8201a582671d.png" alt="bootstrap" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1400/1*xDi2csEAWxu95IEkaNdFUQ.png" alt="react-native" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"/> </a> <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="material u" width="40" height="40"/> </a> <a href="https://nodejs.org/en/about/" target="_blank" rel="noreferrer"> <img src="https://www.the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" alt="nodeJS" width="40" height="40"/> </a></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="expressjs" width="40" height="40"/> </a>
- <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2473700?v=4" alt="Swift" width="40" height="40"/> </a>
-  <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://www.swiftbysundell.com/images/discover/swiftui/icon.png" alt="Swift" width="40" height="40"/> </a>
-   <a href="https://developer.apple.com/xcode/swiftdata/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" alt="Swift" width="40" height="40"/> </a>
-    <a href="https://developer.apple.com/documentation/coredata/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*nm4j_6GfwWpqhuSPlbO-sg.png" alt="Swift" width="40" height="40"/> </a>
-     <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/android-logomark4887.jpg" alt="Swift" width="40" height="40"/> </a>
-       <a href="https://www.apple.com/in/ios/ios-18/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/021/515/122/original/ios-icon-logo-software-apple-symbol-with-name-white-design-mobile-illustration-with-black-background-free-vector.jpg" alt="Postgresql" width="40" height="40"/> </a>
-              <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Swift" width="40" height="40"/> </a>
-               <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg" alt="fastAPI" width="40" height="40"/> </a>
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> <img src="https://blog.desdelinux.net/wp-content/uploads/2023/02/sqlalchemy.png" alt="SQLAlchemy" width="40" height="40"/></a>
-  <a href="https://pydantic.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" alt="Pydantic" width="40" height="40"/> </a>
-  <a href="https://jwt.io/introduction" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="40" height="40"/> </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://www.apple.com/in/apple-intelligence/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/apple-intelligence/apple-intelligence-96x96_2x.png" alt="apple intelligence" width="40" height="40"/> </a>
-   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/> </a>
-    <a href="https://developer.apple.com/documentation/coreml/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" alt="Core ML" width="40" height="40"/> </a>
-    <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket" width="40" height="40"/> </a>
-   <a href="https://developer.apple.com/documentation/realitykit/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/realitykit/realitykit-96x96_2x.png" alt="Core ML" width="40" height="40"/> </a>
-      <a href="https://developer.apple.com/documentation/storekit/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/storekit/storekit-96x96_2x.png" alt="Core ML" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/New_Firebase_logo.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg" alt="heroku" width="40" height="40"/> </a>
- <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Core ML" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="Core ML" width="40" height="40"/> </a>
- <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="Core ML" width="40" height="40"/> </a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-1024.png" alt="Core ML" width="40" height="40"/> </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdnlogo.com/logos/r/3/redis.svg" alt="Redis" width="40" height="40"/> </a>
- <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes" width="40" height="40"/> </a>
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="Nginx" width="40" height="40"/> </a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://helm.sh/img/helm.svg" alt="helm" width="40" height="40"/> </a>
-   <a href="https://developers.google.com/ml-kit" target="_blank" rel="noreferrer"> <img src="https://developers.google.com/static/ml-kit/images/homepage/hero.png" alt="ml-ki" width="40" height="40"/> </a>
-   <a href="https://www.tensorflow.org/js" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/vdbb152dfd6ef5e309aa1d261d45f3fd443aed2691cbfba3f9f80f8a4012a0a8f/tensorflow/images/lockup.svg" alt="tensorflow" width="40" height="40"/> </a>
- <hr/>
-  
-### 🐍 Watch a Snake eat my Contribution Graph :
-<img src="https://github.com/Prajwal208V/Prajwal208V/blob/output/github-contribution-grid-snake.svg" alt="mygrap">
+
+
+
+---
+
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CDK](https://img.shields.io/badge/AWS_CDK-4F230F?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redshift](https://img.shields.io/badge/AWS_Redshift-F50519?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-0C04DE?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-0052CC?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Hudi](https://img.shields.io/badge/Apache_Hudi-FF6C37?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FC000D?style=for-the-badge&logo=databricks&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+---
+
+## 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k-g-prajwal&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-g-prajwal&theme=merko&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-g-prajwal&theme=github-dark&bg_color=0D1117&color=54FC00&line=54FC00&point=54FC00" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=k-g-prajwal&theme=onestar&margin-w=5&no-frame=true" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/k-g-prajwal/k-g-prajwal/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/k-g-prajwal" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
+  <a href="mailTo:prajuganesh@yahoo.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" /></a>
+  <a href="https://github.com/k-g-prajwal" target="blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
+</p>
