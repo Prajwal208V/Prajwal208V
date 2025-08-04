@@ -112,6 +112,8 @@ Generative AI | Full-Stack Web & Mobile | iOS & Android | Blockchain 🚀</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prajwalveerabhadraiah" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
-  <a href="prajwalv208@gmail.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" /></a>
+  <a href="mailto:prajwalv208@gmail.com" target="_blank">
+  <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" />
+</a>
   <a href="https://github.com/prajwal208v" target="blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
