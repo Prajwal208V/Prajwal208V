@@ -1,7 +1,8 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h1 align="left" style="margin-bottom: 5px;">🌌 Prajwal | Technical Lead for Blockchain, AI/ML Solutions, and Software Engineering 🚀</h1>
+      <h1 align="left" style="margin-bottom: 5px;">🌌 Technical Lead
+Generative AI | Full-Stack Web & Mobile | iOS & Android | Blockchain 🚀</h1>
       <p style="margin: 0;">
         🔹 Passionate about building scalable data solutions & cloud architectures.<br>
         🔹 Currently diving deeper into <b>Open-source, Blockchain engineering, ML/AI </b>.<br>
