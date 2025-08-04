@@ -102,9 +102,11 @@ Generative AI | Full-Stack Web & Mobile | iOS & Android | Blockchain 🚀</h1>
   <img src="https://github-profile-trophy.vercel.app/?username=prajwal208v&theme=onestar&margin-w=5&no-frame=true" width="80%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/prajwal208v/prajwal208v/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prajwal208v/prajwal208v/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/prajwal208v/prajwal208v/blob/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/prajwal208v/prajwal208v/blob/output/github-snake.svg" />
+</picture>
 
 ---
 
