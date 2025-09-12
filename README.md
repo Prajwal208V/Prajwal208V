@@ -7,7 +7,7 @@ AI/ML | Full-Stack Web & Mobile | Blockchain | Cloud Architecture 🚀</h1>
         🔹 4.5+ years building scalable production applications across AI, fintech, healthcare & education<br>
         🔹 Published 8+ mobile apps on App Store & Google Play Store<br>
         🔹 Currently leading AI chatbot platform & crypto trading applications<br>
-        🔹 Expert in <b>Next.js, Python FastAPI,React, React Native, Swift (iOS), Kotlin (Android Jetpack Compose), Node.js/NestJS, AWS & System Design </b><br>
+        🔹 Expert in Next.js, Python FastAPI,React, React Native, Swift (iOS), Kotlin (Android Jetpack Compose), Node.js/NestJS, AWS & System Design<br>
         🔹 Love <b>Problem Solving, Performance Optimization & Building User-Centric Solutions</b>
       </p>
       <p align="center" style="margin-top: 5px;">
