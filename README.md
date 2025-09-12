@@ -30,14 +30,8 @@ AI/ML | Full-Stack Web & Mobile | Blockchain | Cloud Architecture 🚀</h1>
 
 ---
 
-## 🔥 Current Projects & Achievements
-
-- 🤖 **AI Chatbot Platform** (Claude-like) - 60% complete with real-time streaming
-- 🪙 **Crypto Trading Platform** - 70% complete with secure wallet integration  
+## 🔥 Achievements
 - 📱 **8+ Published Mobile Apps** across iOS & Android stores
-- 🏥 **Healthcare Dashboard** with HIPAA-compliant real-time monitoring
-- 🏢 **Enterprise Recruitment Platform** (Blockport) with AI-powered features
-
 ---
 
 ## 🚀 Frontend & UI Technologies
@@ -139,27 +133,6 @@ AI/ML | Full-Stack Web & Mobile | Blockchain | Cloud Architecture 🚀</h1>
 
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-
----
-
-## 💼 Professional Experience Highlights
-
-- **🏢 Technical Lead @ ExamRoom.AI** (Aug 2023 - Present)
-  - Leading AI chatbot & crypto trading platform development
-  - Built enterprise recruitment platform with AI-powered features
-  - Implemented WebSocket-based real-time communication
-
-- **🏥 SDE @ Cloudphysician Healthcare** (Nov 2022 - Aug 2023)  
-  - Developed HIPAA-compliant healthcare dashboards
-  - Built real-time patient monitoring with WebRTC integration
-  - Designed Kafka-based data pipelines
-
-- **💰 SDE @ ZFunds Distribution** (Aug 2021 - Nov 2022)
-  - Built fintech investment platforms with automated KYC
-  - Integrated payment gateways and portfolio tracking
-  - Published mobile apps on both app stores
-
----
 
 ## 📊 GitHub Stats & Activity
 
