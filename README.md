@@ -96,7 +96,16 @@ AI/ML | Full-Stack Web & Mobile | Blockchain | Cloud Architecture 🚀</h1>
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 🤖 AI/ML & Blockchain
+## 🤖 AI/ML & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+## 🔗 Blockchain & Crypto
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -178,6 +187,7 @@ AI/ML | Full-Stack Web & Mobile | Blockchain | Cloud Architecture 🚀</h1>
 ## 🏆 Certifications & Learning
 
 - ✅ **AWS Certified Developer Associate** - Cloud Application Development & Deployment
+- ✅ **GraphQL API Development** & Integration
 - ✅ **Data Structures & Algorithms** - Problem Solving & System Design  
 - ✅ **Microservices with Istio** and IBM Cloud Kubernetes Service
 - ✅ **Apache Kafka Data Pipelines** - Event Streaming & Message Processing
